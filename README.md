@@ -1,1 +1,1 @@
-# Text-Classification-of-using-Naive-bayes
+# Text-Classification-using-Naive-bayes
